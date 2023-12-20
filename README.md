@@ -1,5 +1,3 @@
-
-
 ###
 <h1 align="center">Hi 👋, I'm Wasim Zaman</h1>
 <h3 align="center">Full-Time Remote Full-Stack Flutter Developer (Hybrid Platforms)</h3>
@@ -37,14 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-zaman&" alt="wasim-zaman" /></p>
 
 ###
-
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
