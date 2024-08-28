@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasim Zaman</h1>
 <h3 align="center">Full-Stack Flutter Developer & Node JS Developer</h3>
 
-- 🔭 I’m currently working on [SLIC](https://github.com/Wasim-Zaman/slic_fullstack_nartec)
+- 🔭 I’m currently working on [SLIC](https://github.com/Wasim-Zaman/slic_fullstack_nartec) && [Bihar](https://github.com/Wasim-Zaman/bihar_backend)
 
 - 🌱 I’m currently learning **Back-End (Node JS)**
 
