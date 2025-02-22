@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasim Zaman</h1>
 <h3 align="center">Full-Stack Flutter Developer & Node JS Developer</h3>
 
-- 🔭 I’m currently working on [SELC](https://github.com/Wasim-Zaman/selc) && Islamic Schedule
+- 🔭 I’m currently working on Fats Amex && GTrack
 
 - 🌱 I’m currently learning **Back-End (Node JS)**
 
