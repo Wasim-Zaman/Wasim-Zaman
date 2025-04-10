@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasim Zaman</h1>
 <h3 align="center">Full-Stack Flutter Developer & Node Developer</h3>
 
-- 🔭 I’m currently working on GTrack | QMS | Afriva
+- 🔭 I’m currently working on **GTrack | QMS | Afriva**
 
 - 🌱 I’m currently learning **Docker**
 
