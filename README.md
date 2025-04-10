@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wasim Zaman</h1>
-<h3 align="center">Full-Stack Flutter Developer & Node JS Developer</h3>
+<h3 align="center">Full-Stack Flutter Developer & Node Developer</h3>
 
-- 🔭 I’m currently working on Fats Amex && GTrack
+- 🔭 I’m currently working on GTrack | QMS | Afriva
 
-- 🌱 I’m currently learning **Back-End (Node JS)**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wasim-Zaman](https://github.com/Wasim-Zaman)
 
-- 💬 Ask me about **Flutter | Firebase | Node JS | Back-End | Front-End**
+- 💬 Ask me about **Flutter | Firebase | Node JS | Back-End | App Development | Android Development | IOS Development | Docker**
 
-- 📫 How to reach me **wasim@sairatec-solutions.com | wasimxaman13@gmail.com**
+- 📫 How to reach me **wasimxaman13@gmail.com**
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/wasim-zaman-8227a6252) 
