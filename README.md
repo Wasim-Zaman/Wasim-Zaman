@@ -1,71 +1,71 @@
-<h1 align="center">👋 Hi, I’m Wasim Zaman</h1>
-<h3 align="center">Full‑Stack Flutter & Node.js Developer</h3>
+# 👋 Hey there, I'm Wasim Zaman
 
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Wasim-Zaman?label=Follow&style=social)&nbsp;
-  [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Wasim-Zaman)]()
+I’m a passionate **Full Stack Developer** from Pakistan with expertise in both **Flutter** and **Node.js**, focusing on scalable architecture, clean modular code, and production-ready deployment pipelines.
+
+---
+
+## 🚀 Tech Stack
+
+**🧠 State Management in Flutter**
+- `Riverpod`, `GetX`, `Flutter Bloc` — always with **clean architecture** & **modular code**
+
+**📦 Back-End Development**
+- Languages: `Node.js`, `TypeScript`
+- Frameworks: `Express.js`, `NestJS`
+- ORMs/ODMs: `Prisma` ⭐, `Mongoose` ⭐, `Sequelize`, `TypeORM`
+
+**🗄️ Databases**
+- NoSQL: `MongoDB`
+- SQL: `MySQL`, `MSSQL`
+- Tools: `Redis` (frequently used in custom Node.js apps)
+
+**🛠 DevOps & Deployment**
+- Linux-based VPS (Ubuntu)
+- Domain Configuration & DNS
+- `NGINX` (Reverse Proxy, SSL, Static Files)
+- `Docker` & `Docker Compose`
+
+**☁️ Serverless Platforms**
+- `Firebase`
+- `Supabase`
+
+**📱 App Stores**
+- Deployment to **Google Play Store** & **Apple App Store**
+
+**🖥️ Windows IIS**
+- Expert at deploying apps via **Windows IIS** (for clients like *Nartec Solutions* & *GS1KSA*)
+
+---
+
+## 🏗️ Currently Building
+
+| Project                         | Tech Stack                                                                 | Description                                                                 |
+|---------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **CricMedia Admin Panel**       | `Node.js`, `Express.js`, `React.js`, `Swagger`, `NGINX`, `JWT`, `MongoDB` | Super Admin Panel for managing cricket content, match control & analytics  |
+| **Business Apps Suite**         | `Flutter`, `Node.js`, `Redis`, `MySQL`, `Docker`, `VPS`                   | Suite of business management apps including POS, warehouse, supermarket    |
+| **Blogging Backend Template**   | `Express.js`, `JWT`, `Prisma`, `Swagger`, `CORS`, `API Versioning`        | Starter repo for fast and scalable blog APIs                               |
+| **Express CLI Generator Tool**  | `Node.js`, `npx`, `Swagger`, `Folder Structure Generator`                 | Quickly scaffold modular Express apps with pre-configured docs             |
+| **Logo Loader Flutter Package** | `Flutter`, `Custom Widgets`, `Dart`                                       | Custom logo-based animated loader for Flutter apps                         |
+
+---
+
+## 📸 Sneak Peek
+
+<p float="left">
+  <img src="assets/screenshot1.png" width="200" />
+  <img src="assets/screenshot2.png" width="200" />
+  <img src="assets/screenshot3.png" width="200" />
 </p>
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Currently Building Projects](#currently-building-projects)
-- [Tech Stack & Tools](#tech-stack--tools)
-- [Featured Projects](#featured-projects)
-- [Connect with Me](#connect-with-me)
+## 🌍 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/wasim-zaman)
+- 💻 [GitHub](https://github.com/Wasim-Zaman)
+- 🐦 Twitter: [@wasimcodes](https://twitter.com/wasimcodes)
+- 📬 Email: wasim@example.com
 
 ---
 
-## 🧰 Skill Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,prisma,mongodb,redis,docker,linux,nginx,iis,firebase,supabase&theme=light" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a developer who believes in **clean architecture** and **modular code**. I confidently implement **Riverpod**, **GetX**, and **Bloc** for state management. I build robust backends using **Node.js**, **Prisma**, **Mongoose**, and caching with **Redis**.
-
-I'm comfortable with **serverless backends** via Firebase and Supabase, and managing deployments through **Linux VPS** using **Nginx** and **Docker**, and **Windows IIS** deployment.  
-I deploy apps to both **Google Play Store** and **Apple App Store** seamlessly.
-
----
-
-## 🚧 Currently Building Projects
-
-| Project        | Tech Stack & Focus                                      | Status       |
-|----------------|----------------------------------------------------------|--------------|
-| **GTrack**     | Flutter + Riverpod • Node.js • Prisma (MSSQL) • Redis • Docker & Nginx deployment | In Progress |
-| **QMS**        | Flutter + GetX • Node.js (WebSocket) • Mongoose (MongoDB) • Supabase integration | Active Work |
-| **Afriva**     | Flutter + Bloc • Firebase/Supabase • Prisma (MySQL) • Linux VPS setup with Nginx | Ongoing     |
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Frontend / State Management         | Backend / Cloud / Deployment                  | Databases & ORMs                 | Deployment & Infrastructure                    |
-|-------------------------------------|-----------------------------------------------|----------------------------------|------------------------------------------------|
-| Flutter (Dart): Riverpod, GetX, Bloc | Node.js • Express • JWT • Redis • Docker     | Prisma (MSSQL/MySQL), Mongoose (MongoDB) | Linux VPS • Nginx reverse proxy, Docker • Windows IIS |  
-| Firebase • Supabase (Serverless)     | AWS, Azure, Netlify, Vercel                   |                                  | Google Play & App Store deployment             |
-
----
-
-## 📈 Featured Projects
-
-(Check them on GitHub: [github.com/Wasim‑Zaman](https://github.com/Wasim-Zaman))
-
-- **GTrack** – Asset tracking via Flutter, Node.js backend, Redis caching  
-- **QMS** – Real-time queue system using WebSocket, Flutter + Node.js  
-- **Afriva** – Hybrid Flutter app backed by Firebase/Supabase, deployed via Docker/Nginx  
-
----
-
-## 📫 Connect with Me
-
-- Email: wasimxaman13@gmail.com  
-- LinkedIn: [wasim‑zaman‑8227a6252](https://linkedin.com/in/wasim-zaman-8227a6252)
-
-Let’s talk about clean architecture, Docker, state management, or app deployment—happy to collaborate!
+> “I don’t just build apps — I build systems that solve real-world problems.”
