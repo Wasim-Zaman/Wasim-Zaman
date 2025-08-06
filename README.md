@@ -2,83 +2,91 @@
 <h3 align="center">Full‑Stack Flutter & Node.js Developer</h3>
 
 ✨ Currently building **GTrack | QMS | Afriva**  
-🌱 Learning **Docker**, & mastering deployment with Nginx & Linux VPS
+🌱 Specializing in **clean architecture**, **state management**, **modular code**, and **Docker-based deployment**
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-I am a full‑stack developer specializing in Flutter (Dart) on the frontend and Node.js on the backend. I always apply **clean architecture** principles and split code into modular layers.  
-I regularly implement state management using **Riverpod**, **GetX**, and **Flutter Bloc** depending on the project scope  [oai_citation:0‡GitHub](https://github.com/Flutter-Journey/Flutter-Clean-Template?utm_source=chatgpt.com).
+I focus on clean, modular architecture in every project—splitting code into well-defined domains and layers.  
+I use **Riverpod**, **GetX**, and **Flutter Bloc** depending on project needs.
 
-I commonly utilize:
-- **Prisma** and **Mongoose** ORM/ODM for database interactions (MSSQL, MongoDB, MySQL)
-- **Redis** for caching and fast access patterns
-- **Firebase** and **Supabase** for serverless backends
-- VPS deployment via Linux, managing DNS & reverse proxy using **Nginx**
-- **Docker** for containerized deployment
-- **Windows IIS**—expert at deploying apps for Nartec Solutions & GS1KSA
-
----
-
-## 🧰 Tech Stack & Tooling
-
-| Frontend / State Management      | Backend / Cloud / DevOps                            | Databases & ORMs              | Deployment & Infrastructure                      |
-|-------------------------------|-----------------------------------------------------|-------------------------------|-------------------------------------------------|
-| Flutter (Dart): Riverpod, GetX, Flutter Bloc | Node.js · Express · JWT · Redis                      | Prisma (MSSQL/MySQL), Mongoose (MongoDB)           | Linux VPS (Nginx DNS/reverse proxy), Docker, IIS deployment |
-| Supabase & Firebase (Serverless)           | AWS, Azure, Heroku, Netlify, Vercel                 | MongoDB, MySQL, MSSQL via ORMs | Play Store & App Store app deployment             |
+My backend expertise includes:
+- Databases with ORMs/ODMs: **Prisma** (MSSQL/MySQL) & **Mongoose** (MongoDB)
+- **Redis** caching for fast data access
+- Experience with **Supabase** and **Firebase** for serverless backend needs
+- Deployment via **Docker** on Linux VPS, setting up **Nginx reverse proxy**, DNS management
+- Hands-on with **Windows IIS** deployments for Nartec Solutions & GS1KSA
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Currently Building Projects
 
-➡️ Explore all projects: [github.com/Wasim‑Zaman](https://github.com/Wasim-Zaman)
-
-| Project | Stack Highlights |
-|--------|------------------|
-| **GTrack** | Flutter + Firebase + Node backend, real-time asset tracking |
-| **QMS (Queue Management System)** | Flutter frontend, real-time Node & WebSocket backend |
-| **Afriva** | Cross-platform Flutter app integrated with Firebase or Supabase backend |
+| Project        | Tech Stack & Focus                                      | Status       |
+|----------------|----------------------------------------------------------|--------------|
+| **GTrack**     | Flutter + Riverpod • Node.js + Express • Prisma (MSSQL) • Redis • Docker & Nginx deployment | In Progress |
+| **QMS**        | Flutter + GetX • WebSocket backend with Node.js • Mongoose (MongoDB) • Supabase integration | Active Work |
+| **Afriva**     | Flutter + Bloc • Firebase / Supabase auth & storage • Prisma (MySQL) • Linux VPS & Nginx setup | Ongoing     |
 
 ---
 
-## 📈 GitHub / Profile Activity
+## 🛠️ Tech Stack & Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasim-Zaman&theme=radical&include_all_commits=false)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim-Zaman&theme=radical&layout=compact)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wasim-Zaman&theme=radical)
-
----
-
-## 🏆 Achievements & Widgets
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wasim-Zaman&theme=radical&no-bg=true&margin-w=4)
+| Frontend / State Management         | Backend / Cloud / Deployment                    | Databases & ORMs                     | Deployment & Infrastructure                    |
+|-------------------------------------|--------------------------------------------------|--------------------------------------|------------------------------------------------|
+| Flutter (Dart): Riverpod · GetX · Bloc | Node.js · Express · JWT · Redis · Docker         | Prisma (MSSQL / MySQL) · Mongoose (MongoDB) | Linux VPS (Nginx DNS/reverse proxy) · Windows IIS deployment |
+| Firebase · Supabase (Serverless)     | AWS · Azure · Netlify · Vercel                  |                                      | App deployment to Google Play & Apple App Store |
 
 ---
 
-## 📫 Let’s Connect
+## 🔎 Featured Projects
+
+➡️ See more on my GitHub: [github.com/Wasim‑Zaman](https://github.com/Wasim-Zaman)
+
+- **GTrack** – Asset and inventory tracking system using Flutter, Firebase, Node.js, and Redis.  
+- **QMS (Queue Management System)** – Real-time queue display using WebSockets, Flutter, and Node.js backend.  
+- **Afriva** – Cross‑platform Flutter app integrated with Firebase or Supabase, deployed on Linux VPS with Docker & Nginx.
+
+---
+
+## 📈 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wasim-Zaman&theme=radical&include_all_commits=false)&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim-Zaman&theme=radical&layout=compact)&nbsp;
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wasim-Zaman&theme=radical)
+
+---
+
+## 🏆 Achievements & Recognition
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wasim-Zaman&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+## 📫 Connect with Me
 
 - **Email**: wasimxaman13@gmail.com  
-- **LinkedIn**: [wasim-zaman-8227a6252](https://linkedin.com/in/wasim-zaman-8227a6252)  
+- **LinkedIn**: [wasim‑zaman‑8227a6252](https://linkedin.com/in/wasim-zaman-8227a6252)
 
-I'm open to collaborating on Flutter, Node.js, Firebase, Docker, and clean-architecture projects.
-
----
-
-## 🧩 Why This README Works
-
-- ✅ **Industry‑standard layout**: Based on top profile README templates for clarity and readability  [oai_citation:1‡GitHub](https://github.com/tientuyen07/flutter-clean-architecture-template?utm_source=chatgpt.com)  
-- 🔄 **Dynamic content & badges**: GitHub stats, trophies, streaks convey continued activity and experience  [oai_citation:2‡abhisheknaiidu.github.io](https://abhisheknaiidu.github.io/awesome-github-profile-readme/?utm_source=chatgpt.com)  
-- 📂 **Clean modular sections**: Bio, tech stack, projects, and contact info are logically organized and easy to scan  
-- 🧠 **Content-rich value**: Emphasizes clean architecture, multi‑ORM/ODM expertise, state‑management flexibility, and full-stack deployment know-how  
+Let’s chat about Flutter, Node.js, Prisma, Mongoose, clean architecture, Docker—or anything else!
 
 ---
 
-## ✅ Optional Enhancements
+## 🧾 Why This README Works
 
-- Automate README updates with recent GitHub activity via Actions (e.g. github-activity-readme, github‑action‑dynamic‑profile‑page)  [oai_citation:3‡DEV Community](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p?utm_source=chatgpt.com) [oai_citation:4‡GitHub](https://github.com/resourceful-nebil/Flutter-Clean-Architecture-Starter-Kit-Template?utm_source=chatgpt.com)  
-- Add Dev quotes, random dev memes, visitor counters, or StackOverflow stats with dynamic widgets using existing tools  [oai_citation:5‡GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme?utm_source=chatgpt.com)  
+- 🎯 **Strong Structure**: Mirrors industry-recommended layouts with modular sections and clear headings  [oai_citation:0‡mhucka.github.io](https://mhucka.github.io/readmine/?utm_source=chatgpt.com) [oai_citation:1‡bomberbot.com](https://www.bomberbot.com/github/how-to-write-an-awesome-readme-for-your-github-project/?utm_source=chatgpt.com) [oai_citation:2‡github.com](https://github.com/matiassingers/awesome-readme?utm_source=chatgpt.com)  
+- ⚡ **Live Stats & Badges**: Dynamic GitHub stats, streaks, and trophies highlight activity and reliability  [oai_citation:3‡github.com](https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates?utm_source=chatgpt.com)  
+- 🧱 **Clear Roadmap**: "Currently Building Projects" section shows current momentum and tool proficiency  
+- 🧠 **Content-Rich**: Emphasizes your architecture discipline, state management flexibility, backend/deployment stack, and full-stack capability
 
 ---
 
-Let me know if you’d like to integrate any of these dynamic widgets or add personalized visuals like show‑off badges, activity feeds, or custom header banners!
+## 💡 Optional Enhancements
+
+- Include dynamic widgets for visitor counts, StackOverflow activity, recent tweets/blog posts (via GitHub Actions)  [oai_citation:4‡abhisheknaiidu.github.io](https://abhisheknaiidu.github.io/awesome-github-profile-readme/?utm_source=chatgpt.com)  
+- Add animated SVG headers or typing effects for a more interactive feel  [oai_citation:5‡dev.to](https://dev.to/karkeys1108/best-github-profile-readme-template-for-beginners-2joh?utm_source=chatgpt.com)  
+- Insert project badges (like forks, stars, CI status, etc.) for each repo using Shields.io badges  [oai_citation:6‡freecodecamp.org](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/?utm_source=chatgpt.com)  
+
+---
+
+Would you like help adding any of these widgets or a custom banner graphic? I’m happy to assist!
