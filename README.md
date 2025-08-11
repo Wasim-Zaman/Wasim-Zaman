@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Flutter+Developer;Node.js+Backend+Specialist;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-✨ Currently building and leading **Saudi Business Counsil** For Nartec Solutions as well as **Good JUJU** Scientific App For Zenclouds Technologie 
+✨ Currently building and leading **Saudi Business Counsil** For Nartec Solutions as well as **Good JUJU** Scientific App For Zenclouds Technologie </br>
 🌱 Learning **Docker**, & mastering deployment with Nginx & Linux VPS
 
 ---
